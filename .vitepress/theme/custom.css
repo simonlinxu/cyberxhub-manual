@@ -1,0 +1,8 @@
+:root {
+  --vp-c-brand-1: #000000;
+  --vp-c-brand-2: #333333;
+}
+/* 隐藏底部的水印/由 VitePress 强力驱动 字样 */
+.VPFooter {
+  display: none !important;
+}
