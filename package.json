@@ -1,0 +1,13 @@
+{
+  "name": "cyberxhub-manual",
+  "version": "1.0.0",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "latest",
+    "vue": "^3.3.4"
+  }
+}
